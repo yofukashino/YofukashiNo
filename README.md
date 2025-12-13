@@ -2,15 +2,15 @@
 
 - Replugged is what I currently like to work on. (Your average Discord Client But Better)
 
-- JS/TS is what I love to work with
+- JS, TS, GoLang, Rust, Python, Bash and some shit is what I love to work with
 
-- Ex Discord.Js Bot Dev
+- Perfectionist and retarded
 
 - Streams Sometimes > [yofukashino_@twitch](https://www.twitch.tv/yofukashino_)  (Pls Follow me)
 
-- Looking for a job and is broke, (Pls hire me... *[insert sobbing ]*) 
+- Broke af, (Pls hire me... *[insert sobbing ]*) 
 
-- pervet
+- pervet hehehe
 
 
 
