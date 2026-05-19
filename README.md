@@ -1,8 +1,8 @@
 ### Womp Womp
 
-- Replugged is what I currently like to work on. (Your average Discord Client But Better)
+- JS, TS, GoLang, Rust, Python, Go, Bash and some shit is what I love to work with
 
-- JS, TS, GoLang, Rust, Python, Bash and some shit is what I love to work with
+- No active projects 
 
 - Perfectionist and retarded
 
