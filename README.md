@@ -1,5 +1,7 @@
 ### Womp Womp
 
+- Uohhhhhhhhh
+  
 - JS, TS, GoLang, Rust, Python, Go, Bash and some shit is what I love to work with
 
 - No active projects 
